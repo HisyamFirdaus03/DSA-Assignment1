@@ -2,6 +2,7 @@
 //TITLE: ASSIGNMENT 1 | DATA STRUCTURE AND ALGORITHM
 //SYSTEM: STUDENT MANAGEMENT SYSTEM
 //GROUP: 07
+//SECTION: 10
 //GROUP MEMBERS: 1. HISYAMUDDIN FIRDAUS BIN HAMZAH | A22EC0167
 //               2. NAQIB AZIM BIN SHAUN           | A22EC0090
 //-----------------------------------------------------------------              
